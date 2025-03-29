@@ -3,10 +3,15 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Ignore output files
+# Ignore output files but keep .gitkeep
 output/
+!output/.gitkeep
+output/finalpdf/
+!output/finalpdf/.gitkeep
+
+# Ignore transcriptions but keep .gitkeep
 transcriptions/
-finalpdf/
+!transcriptions/.gitkeep
 
 # Ignore audio files
 *.wav
