@@ -1,5 +1,4 @@
 # Intelligent-Classroom-Assistant
-# Intelligent Classroom Assistant
 
 ## Overview
 The **Intelligent Classroom Assistant** is an AI-powered tool designed to enhance lecture recordings by transcribing, summarizing, and generating organized lecture notes. It records audio, captures blackboard images, and creates a well-structured PDF for easy reference.
