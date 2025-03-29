@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore output files
+output/
+transcriptions/
+finalpdf/
+
+# Ignore audio files
+*.wav
+*.mp3
+*.aac
+
+# Ignore PDFs
+*.pdf
